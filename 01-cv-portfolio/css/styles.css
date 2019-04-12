@@ -43,6 +43,9 @@ body
 	
 /*intro background changing gradient ends*/
 
+@media (pointer: coarse) and (hover: none){
+	width: 100%;
+}
 
 /* ---------------------------------
 1. PRIMARY STYLES
