@@ -44,7 +44,9 @@ body
 /*intro background changing gradient ends*/
 
 @media (pointer: coarse) and (hover: none){
-	width: 100%;
+	.mobileresize{
+		width: 100%;
+	}
 }
 
 /* ---------------------------------
